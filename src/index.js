@@ -7,7 +7,6 @@ import registerServiceWorker from './registerServiceWorker';
 const RenderApp = () => (
           <div>
             <GlobalStyles />
-            <App />
           </div>
 );
 
